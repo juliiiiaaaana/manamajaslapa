@@ -1,0 +1,28 @@
+body {
+    background: rgb(54, 176, 253);
+}
+.center{  
+    text-align: center;
+}
+.bitton{
+color: floralwhite;
+padding: 30px 64px;
+text-align: center;
+display: inline-block;
+font-size: 20px;
+margin: 4px 2px;
+cursor: pointer;
+}
+
+.button1{
+    background-color: lightsalmon;
+}
+.button2{
+    background-color:lightpink;
+}
+.button3{
+    background-color: aquamarine;
+}
+.button4{
+    background-color: aqua;
+}
